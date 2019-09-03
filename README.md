@@ -1,4 +1,4 @@
-# Autómatas y Lenguajes Formales 2019-1
+# Autómatas y Lenguajes Formales 2019-2
 
 La máquina virtual puede descargarse aquí: https://drive.google.com/open?id=1vZrWLGix3ae14M99DhwUGuwAffPpE73p
 
