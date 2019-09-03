@@ -34,7 +34,7 @@ Se aceptarán grupos de máximo 3 estudiantes. Realizar el proyecto de forma ind
 - 20% Implementación
 - 20% Definición formal
 - 20% Diagramas correspondientes
-- 20% Sustentación:
+- 20% Sustentación:<br/>
 Imagen relacionada con el título e información de los estudiantes<br/>
 Video corto (alojado en youtube)<br/>
 Presentación de máximo 5 diapositivas<br/>
