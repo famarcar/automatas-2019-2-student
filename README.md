@@ -31,19 +31,17 @@ Son evaluaciones **individuales** basadas en notebooks sobre los temas tratados 
 
 ## Proyecto final
 Se aceptarán grupos de máximo 3 estudiantes. Realizar el proyecto de forma individual es también aceptado.
-<ul>
-<li>20% Implementación<li/>
-<li>20% Definición formal<li/>
-<li>20% Diagramas correspondientes<li/>
-<li>20% Sustentación:<li/>
+- 20% Implementación
+- 20% Definición formal
+- 20% Diagramas correspondientes
+- 20% Sustentación:
 <ul type="circle">
  <li>Imagen relacionada con el título e información de los estudiantes<li/>
  <li>Video corto (alojado en youtube)<li/>
  <li>Presentación de máximo 5 diapositivas<li/>
 </ul>
-</li>
-<li>20% Puntualidad en la fecha asignada<li/>
-</ul>
+- 20% Puntualidad en la fecha asignada
+
 
 ## Calendario y plazos
 
