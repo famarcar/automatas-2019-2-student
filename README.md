@@ -45,25 +45,25 @@ Presentación de máximo 5 diapositivas<br/>
 
                           SESSION 1                  SESSION 2               STUDENT DEADLINES
 
-     W38 Sept16 - Sept20    0.Intro                    Python I
-     W39 Sept23 - Sept27    1.Intro                    Python II
-     W40 Sept30 - Oct04    Alfabetos y Lenguajes      FSM Designer + JFLAP
-     W41 Oct07 - Oct11    AFD y AFN                  Ejemplo y práctica automata-lib
-     W42 Oct14 - Oct18    AFN-e	                 Ejemplo y práctica automata-lib
-     W43 Oct21 - Oct25    Ejercicios                 Parcial 1               Entrega Taller 1
-     W44 Oct28 - Nov01    Expresiones Regulares      Propiedades de las expresiones regulares
-     W45 Nov04 - Nov08    GLC	                 Práctica NLTK
-     W46 Nov11 - Nov15    Vacaciones docentes
-     W47 Nov18 - Nov22    Arboles Derivación         Práctica NLTK arboles de derivación
-     W48 Nov25 - Nov29    Autómatas de Pila	         Ejemplo y practica automata-lib PDA
-     W49 Dic02 - Dic06    Conversión GiC-PDA         Parcial 2               Entrega taller 2
-     W50 Dic09 - Dic13    Introducción MT            Práctica automata-lib MT
-     W51 Dic16 - Dic20    MT multibanda y multicinta Práctica MT multicinta
+     W38 Sept16-Sept20    0.Intro                    Python I
+     W39 Sept23-Sept27    1.Intro                    Python II
+     W40 Sept30-Oct04    Alfabetos y Lenguajes      FSM Designer + JFLAP
+     W41 Oct07-Oct11    AFD y AFN                  Ejemplo y práctica automata-lib
+     W42 Oct14-Oct18    AFN-e	                 Ejemplo y práctica automata-lib
+     W43 Oct21-Oct25    Ejercicios                 Parcial 1               Entrega Taller 1
+     W44 Oct28-Nov01    Expresiones Regulares      Propiedades de las expresiones regulares
+     W45 Nov04-Nov08    GLC	                 Práctica NLTK
+     W46 Nov11-Nov15    Vacaciones docentes
+     W47 Nov18-Nov22    Arboles Derivación         Práctica NLTK arboles de derivación
+     W48 Nov25-Nov29    Autómatas de Pila	         Ejemplo y practica automata-lib PDA
+     W49 Dic02-Dic06    Conversión GiC-PDA         Parcial 2               Entrega taller 2
+     W50 Dic09-Dic13    Introducción MT            Práctica automata-lib MT
+     W51 Dic16-Dic20    MT multibanda y multicinta Práctica MT multicinta
 
-     W03 Ene13 - Ene17    MT, automatas y PDA        Ejemplos
-     W04 Ene20 - Ene24    MTu, decibilidad, P y NP   Ejemplos y ejercicios taller
-     W05 Ene27 - Ene31    Ejercicios                 Parcial 3               Entrega Taller 3
-     W06 Feb03 - Feb07    Sustentación proyectos     Sustentación proyectos
+     W03 Ene13-Ene17    MT, automatas y PDA        Ejemplos
+     W04 Ene20-Ene24    MTu, decibilidad, P y NP   Ejemplos y ejercicios taller
+     W05 Ene27-Ene31    Ejercicios                 Parcial 3               Entrega Taller 3
+     W06 Feb03-Feb07    Sustentación proyectos     Sustentación proyectos
 
 
 
@@ -71,7 +71,7 @@ Presentación de máximo 5 diapositivas<br/>
     Oct27 -        -> Último día cancelación materias
     Dic23 -        -> Vacaciones docentes
     Ene29 -        -> Finalización de clases
-    Ene30 - Feb08  -> Evaluaciones finales
+    Ene30-Feb08  -> Evaluaciones finales
     Feb08 -        -> Registro calificaciones finales
     
 Ver el Calendario academico 2019:
