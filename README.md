@@ -45,9 +45,9 @@ Presentación de máximo 5 diapositivas<br/>
 
                           SESSION 1                  SESSION 2               STUDENT DEADLINES
 
-     W38 Sept16-Sept20    0.Intro                    Python I
-     W39 Sept23-Sept27    1.Intro                    Python II
-     W40 Sept30-Oct04    Alfabetos y Lenguajes      FSM Designer + JFLAP
+     W38 Sep16-Sep20    0.Intro                    Python I
+     W39 Sep23-Sep27    1.Intro                    Python II
+     W40 Sep30-Oct04    Alfabetos y Lenguajes      FSM Designer + JFLAP
      W41 Oct07-Oct11    AFD y AFN                  Ejemplo y práctica automata-lib
      W42 Oct14-Oct18    AFN-e	                 Ejemplo y práctica automata-lib
      W43 Oct21-Oct25    Ejercicios                 Parcial 1               Entrega Taller 1
